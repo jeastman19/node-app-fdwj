@@ -1,2 +1,3 @@
 # node-app-fdwj
-Aplicación de ejemplo usado en pruebas de despliegue con Jenkins
+
+Esta aplicación es solo con la finalidad de probar el despliegue de una aplicación realizada con Node.js desde Jankins.
